@@ -1,1 +1,45 @@
-Hello, I'm Rayhan. I'm a computer science student at AIUB. Today my software Engineering lab class, I'm learning git and github.
+Lorem Ipsum is a standard placeholder text used in design and publishing, derived from a 1st-century BC Latin text by Cicero.
+What is Lorem Ipsum?
+Lorem Ipsum is dummy or placeholder text commonly used in graphic design, publishing, and web development to fill layouts and demonstrate visual elements without distracting from the design itself. It allows designers to focus on typography, spacing, and layout rather than the content 
+Wikipedia
+Wikipedia
++1
+. The text typically begins with: “Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.” 
+Lorem Ipsum
+Lorem Ipsum
++1
+.
+
+Historical Origins
+Contrary to popular belief, Lorem Ipsum is not random gibberish. It originates from sections 1.10.32 and 1.10.33 of De Finibus Bonorum et Malorum (“The Extremes of Good and Evil”), a treatise on ethics written by the Roman statesman Cicero in 45 BC 
+Lorem Ipsum
+Lorem Ipsum
++1
+. The first two words, Lorem ipsum, are derived from the Latin phrase dolorem ipsum, meaning “pain itself” 
+Wikipedia
+Wikipedia
+. The text was scrambled and adapted in the 1960s by Letraset for use in dry-transfer sheets, and later became widely used in desktop publishing software 
+Lorem Ipsum
+Lorem Ipsum
++2
+.
+
+Purpose and Usage
+The main purpose of Lorem Ipsum is to create a natural-looking block of text that mimics the distribution of letters in English, making it easier to visualize the final layout without being distracted by readable content 
+Lorem Ipsum
+Lorem Ipsum
++1
+. It is used in:
+
+Print and graphic design mockups
+Web and app development templates
+Typography and font previews
+Modern Tools
+Today, there are numerous Lorem Ipsum generators that allow users to create placeholder text in any number of words, sentences, or paragraphs. Some tools also offer customization options like titles, captions, and HTML formatting for web layouts 
+Lorem Ipsum
+Lorem Ipsum
++1
+. These generators make it easy to quickly populate designs with realistic-looking text.
+
+Summary
+Lorem Ipsum serves as a practical tool for designers and developers, providing a visually coherent text block derived from classical Latin literature. Its enduring use from the 1960s to the digital era highlights its effectiveness in focusing attention on design rather than content 
