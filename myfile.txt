@@ -1,2 +1,3 @@
 This is a test file
 File name corrected successfully
+This line was added in feature-branch
